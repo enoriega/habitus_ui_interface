@@ -1,0 +1,5 @@
+li {
+    background: #F0F0F0;
+    padding: .3em;
+}
+li:nth-child(odd) { background: #F8F8F8; }
